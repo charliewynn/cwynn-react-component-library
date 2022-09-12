@@ -1,6 +1,9 @@
 {
-  "name": "cwynn-react-component-library",
-  "version": "0.0.1",
+  "name": "@charliewynn/cwynn-react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/charliewynn"
+  },
+  "version": "0.0.2",
   "description": "Playing around with react component library",
   "scripts": {
     "rollup": "rollup -c"
